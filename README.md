@@ -4,7 +4,7 @@ Programmation et étude d'automates cellulaires à une dimension en Python : des
 
 > Projet réalisé par **Maud Sadrin** et **Evane Ohlmann**, présenté lors d'une restitution au CIRM (Centre International de Rencontres Mathématiques) le 21 février 2025.
 
-![Règle 90 à partir d'une case noire](images/regle_90_une_case.png)
+![Règle 90 à partir d'une case noire](regle_90_une_case.png)
 
 ---
 
@@ -48,9 +48,9 @@ La règle 110 est **Turing-complète** (Matthew Cook, 2004) : malgré sa simplic
 
 | Règle | Départ avec une case noire | Départ aléatoire |
 |---|---|---|
-| 60 | ![](images/regle_60_une_case.png) | ![](images/regle_60_aleatoire.png) |
-| 165 | ![](images/regle_165_une_case.png) | ![](images/regle_165_aleatoire.png) |
-| 110 | ![](images/regle_110_une_case.png) | ![](images/regle_110_aleatoire.png) |
+| 60 | ![](regle_60_une_case.png) | ![](regle_60_aleatoire.png) |
+| 165 | ![](regle_165_une_case.png) | ![](regle_165_aleatoire.png) |
+| 110 | ![](regle_110_une_case.png) | ![](regle_110_aleatoire.png) |
 
 - **Des règles simples produisent des motifs complexes**, parfois fractals.
 - **Le point de départ change tout** : la même règle donne un motif parfaitement régulier à partir d'une case, et presque désordonné à partir d'une ligne aléatoire.
